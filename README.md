@@ -1,9 +1,8 @@
 
-# [<img src="readme-assets/logo.png"> React Portfolioby M.Shahzad
+ React Portfolioby M.Shahzad
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
-![alt tag1](readme-assets/promo.png)
 
 Key features:
 - Lightweight and fully responsive.
@@ -20,17 +19,17 @@ Check out the live version of the template deployed
 ### 1. Base layout
 The layout uses a fixed central view with a left sidebar, adjusting perfectly across various monitor resolutions, from 4:3 to ultra-wide.
 
-![alt tag1](readme-assets/demo.png)
+
 
 ### 2. Desktop Screenshots
 The main view transitions smoothly when a new page is selected from the sidebar, giving a page-flipping effect. The sidebar is also toggleable, allowing the content area to expand for a larger viewing space.
 
-![alt tag1](readme-assets/desktop.png)
+
 
 ### 3. Mobile Screenshots
 On mobile, the layout groups the portfolio sections into categories and transforms into a tabbed interface with a bottom navigation.
 
-![alt tag1](readme-assets/mobile.png)
+
 
 ## Installation
 
@@ -261,7 +260,7 @@ This command triggers a series of processes that package your code, assets, and 
 
 ## About
 
-This template was created by and is maintained by **[Ryan Balieiro](https://github.com/Shahzadali72733/React-Portfolio)**.
+This template was created by and is maintained by **(https://github.com/Shahzadali72733/React-Portfolio)**.
 
 It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by M Otto and Jacob Thorton.
 
