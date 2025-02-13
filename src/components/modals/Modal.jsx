@@ -98,7 +98,7 @@ function ModalCloseButton({color, onClose}) {
     }
 
     return (
-        <ToolButton icon={`fa-solid fa-xmark`}
+        <ToolButton icon={`fa-solid fa-xM`}
                     className={`close-button`}
                     size={2}
                     onClick={_onButtonClicked}

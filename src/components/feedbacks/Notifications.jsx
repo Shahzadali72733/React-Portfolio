@@ -56,7 +56,7 @@ function Notifications({displayingNotification, killNotification}) {
                             </h6>
 
                             <button className={`hide-button ps-1`} onClick={_onCloseButton}>
-                                <FaIcon iconName={`fa-solid fa-xmark`}/>
+                                <FaIcon iconName={`fa-solid fa-xM`}/>
                             </button>
                         </CardHeader>
 

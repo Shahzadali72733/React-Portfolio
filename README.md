@@ -53,11 +53,11 @@ npm run dev
 4. To temporarily deactivate the preload animation during theme adjustments, go to `public/data/settings.json` and modify the following field:
 
 ```
-"preloader": {
+<!-- "preloader": {
     "enabled": false,
     (...)
 },
-```
+``` -->
 
 ## Template Customization
 
@@ -264,7 +264,7 @@ This command triggers a series of processes that package your code, assets, and 
 
 This template was created by and is maintained by **[Ryan Balieiro](https://ryanbalieiro.com/)**.
 
-It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
+It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by M Otto and Jacob Thorton.
 
 Additional frameworks and plugins used include:
 - **Font Awesome**: A library of free vector icons.

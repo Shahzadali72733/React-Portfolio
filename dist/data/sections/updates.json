@@ -203,35 +203,7 @@
                         }
                     }
                 },
-
-                {
-                    "dates": {
-                        "start": "05/12/2023",
-                        "end": null
-                    },
-                    "links": [
-                        {"string": "see_more", "href": "https://youtube.com"}
-                    ],
-                    "locales": {
-                        "en": {
-                            "title": "Started my own **YouTube channel**!",
-                            "text": "Launched a YouTube channel focused on programming tutorials, sharing insights and techniques on various technologies, and engaging with a community of aspiring developers."
-                        },
-                        "es": {
-                            "title": "¡Inicié mi propio **canal de YouTube!**",
-                            "text": "Lancé un canal de YouTube enfocado en tutoriales de programación, compartiendo ideas y técnicas sobre diversas tecnologías, y participando en una comunidad de desarrolladores aspirantes."
-                        },
-                        "fr": {
-                            "title": "Création de ma propre **chaîne YouTube** !",
-                            "text": "Lancement d'une chaîne YouTube axée sur des tutoriels de programmation, partageant des idées et des techniques sur diverses technologies, et interagissant avec une communauté de développeurs en herbe."
-                        },
-                        "ko": {
-                            "title": "자신의 **유튜브 채널을** 시작했습니다!",
-                            "text": "프로그래밍 튜토리얼에 초점을 맞춘 유튜브 채널을 시작하여 다양한 기술에 대한 통찰력과 기법을 공유하고, 개발자 지망생 커뮤니티와 소통하고 있습니다."
-                        }
-                    }
-                },
-
+                
                 {
                     "dates": {
                         "start": "11/05/2024",
@@ -241,7 +213,7 @@
                     "locales": {
                         "en": {
                             "title": "Working on a new **mobile project**!",
-                            "text": "Currently developing a mobile application that integrates innovative features and user-friendly design, aimed at enhancing user experience and addressing specific market needs."
+                            "text": "Currently developing a mobile application that integrates innovative features and user-friendly design, aimed at enhancing user experience and addressing specific Met needs."
                         },
                         "es": {
                             "title": "¡Trabajando en un nuevo **proyecto móvil**!",
@@ -260,7 +232,7 @@
 
                 {
                     "dates": {
-                        "start": "12/12/2024",
+                        "start": "01/02/2025",
                         "end": null
                     },
                     "links": [

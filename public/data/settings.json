@@ -4,14 +4,14 @@
     "fullScreenButtonEnabled": true,
 
     "preloader": {
-        "enabled": true,
+        "enabled": false,
         "title": "React <b>Portfolio</b>",
         "subtitle": "by Ryan Balieiro"
     },
 
     "profile": {
-        "name": "Mark Choi",
-        "stylizedName": "<strong>Mark **Choi**</strong>",
+        "name": "M.Shahzad",
+        "stylizedName": "<strong>M **Shahzad**</strong>",
         "logoUrl": "images/svg/logo.svg",
         "profilePictureUrl": "images/pictures/avatar.jpg",
 

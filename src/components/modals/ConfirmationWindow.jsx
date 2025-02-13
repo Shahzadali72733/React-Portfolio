@@ -32,7 +32,7 @@ function ConfirmationWindow({pendingConfirmation, hideConfirmationDialog}) {
 
                             <div className={`confirmation-window-buttons`}>
                                 <button className={`btn btn-secondary text-4`} onClick={_close} data-tooltip={pendingConfirmation.cancelButtonLabel}>
-                                    <FaIcon iconName={`fa-solid fa-xmark me-2`}/>
+                                    <FaIcon iconName={`fa-solid fa-xM me-2`}/>
                                     <span>{pendingConfirmation.cancelButtonLabel}</span>
                                 </button>
 

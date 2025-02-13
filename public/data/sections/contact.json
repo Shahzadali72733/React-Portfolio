@@ -55,9 +55,9 @@
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+92 3014117457",
                     "links": [
-                        {"href": "tel:11234567890"}
+                        {"href": "tel:923014117457"}
                     ],
                     "icon": {
                         "img": null,
@@ -73,9 +73,9 @@
                 },
 
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "Shahzadali7273@gmail.com",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "mailto:Shahzadali7273@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -89,7 +89,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@shahzadali7273",
                     "links": [
                         {"href": "https://linkedin.com"}
                     ],
@@ -104,7 +104,7 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "M.Shahzad",
                     "links": [
                         {"href": "https://facebook.com"}
                     ],
@@ -119,7 +119,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@shahzadali7273",
                     "links": [
                         {"href": "https://instagram.com"}
                     ],
@@ -134,7 +134,7 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@shahzadali7273",
                     "links": [
                         {"href": "https://tiktok.com"}
                     ],
